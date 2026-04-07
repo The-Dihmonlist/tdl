@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Auzenthic",
+        "link": "https://www.youtube.com/@Auzenthic16"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Scuffed",
+        "link": "https://www.youtube.com/@ScuffedPlaysGD"
     },
     {
         "role": "helper",
@@ -15,13 +15,8 @@
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
         "role": "dev",
-        "name": "List Coder",
+        "name": "EchoFresh",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
