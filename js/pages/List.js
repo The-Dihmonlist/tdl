@@ -109,7 +109,7 @@ export default {
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall and have a visible cheat indicator (includes cheat indicator on the dropdown Menu (excluded if the person is playing Vanilla)) or the completion will be invalidated.
+                        The recording must also show the player hit the endwall and have a visible cheat indicator or the completion will be invalidated - includes cheat indicator on the dropdown Menu (excluded if the person is playing Vanilla)
                     </p>
                     <p>
                         Do not use secret routes or bug routes
