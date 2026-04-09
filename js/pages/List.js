@@ -109,13 +109,13 @@ export default {
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must also show the player hit the endwall and have a visible cheat indicator (includes endscreen(excluded if the person is playing vanilla)  or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies (however completions on official LDM versions are allowed)
+                        Do not use easy modes, only a record of the unmodified level qualifies (however completions on official LDM versions are allowed, such as the Pointercrate or AREDL LDM's and bugfixes)
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for the remaining queue after it falls off, then afterwards we never accept records for said level
