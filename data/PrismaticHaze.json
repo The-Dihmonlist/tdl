@@ -5,5 +5,14 @@
     "creators": ["Gizbro", "Moosh"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/dqiuuffh7U4?si=pjX5RbM2NiGcOUCA",
-    "records": []
+    "records": [
+                    {
+                      "user": "Auzenthic",
+                      "link": "https://youtu.be/jdRqSlnREbE?si=qfotn4Hw2qDCa7h4",
+                      "percent": 100,
+                      "hz": 480
+                    }
+    
+    
+    ]
 }
