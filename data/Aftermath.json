@@ -14,5 +14,12 @@
     ],
     "verifier": "Adrian",
     "verification": "https://youtu.be/IXtX2atdYq0?si=qOwY77dBylanFtQA",
-    "records": []
+    "records": [{
+                     "user": "scuffed",
+                    "link": "https://youtu.be/JHITDyKStGE?si=L3De0QJgydBlugwZ",
+                    "percent": 100,
+                      "hz": 480
+                }
+    
+    ]
 }
