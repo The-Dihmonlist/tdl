@@ -5,5 +5,13 @@
     "creators": ["Sillow"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/O1E_uGTyIqs?si=DBIJluXXClbW9Cel",
-    "records": []
+    "records": [
+                  {            
+                 "user": "Auzenthic",
+                  "link": "https://youtu.be/hLDUYMAcj5o?si=bBzFNWjEoIboj5c9",
+                  "percent": 100,
+                  "hz": 360
+                }
+        
+    ]
 }
