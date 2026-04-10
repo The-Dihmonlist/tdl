@@ -5,5 +5,12 @@
     "creators": ["GgB0y"],
     "verifier": "dagreenmoose",
     "verification": "https://youtu.be/4x1I5jsxYPs?si=N50WPoe9Lts4Tv0r",
-    "records": []
+    "records": [
+                 {
+                  "user": "Auzenthic",
+                  "link": "https://youtu.be/iCC0l4OW_pg?si=HvljDt-PQZf3eeZG",
+                  "percent": 100,
+                  "hz": 240
+}
+    ]
 }
