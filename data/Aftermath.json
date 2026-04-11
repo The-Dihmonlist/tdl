@@ -19,7 +19,14 @@
                     "link": "https://youtu.be/JHITDyKStGE?si=L3De0QJgydBlugwZ",
                     "percent": 100,
                       "hz": 480
-                }
+                },
+                {
+                  "user": "Terxo",
+                  "link": "https://www.youtube.com/watch?v=tyxRbGZSGaQ",
+                  "percent": 100,
+                  "hz": 60
+                },
+
     
     ]
 }
