@@ -1,13 +1,10 @@
-{
-    "id": 55985772 ,
+"id":55985772,
     "name": "Tech Manifestation",
-    "author": "Pleoslim",
-    "creators": [
-                  "Makfeed",
-                  "Pleoslim"
-                 ],
+    "author": "Pleolism",
+    "creators": [ "Pleolism",
+                    "MakFeed"
+                ],
     "verifier": "Terxo",
     "verification": "https://www.youtube.com/watch?v=e0i7H2kooIg",
     "percentToQualify": "100",
     "records": []
-} 
