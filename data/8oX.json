@@ -5,5 +5,12 @@
     "creators": ["Yakimaru", "f3lixsram"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/SVUT17OHiFQ?si=0EJH-MhpIv8dpizj",
-    "records": []
+    "records": [
+                  {
+                  "user": "Terxo",
+                  "link": "https://www.youtube.com/watch?v=qnyiaWa9VIM",
+                  "percent": 100,
+                  "hz": 60
+                    } 
+]
 }
