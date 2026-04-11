@@ -11,7 +11,13 @@
                     "link": "https://youtu.be/j4YSa-IauTE",
                       "percent": 100,
                           "hz": 300
-                }
+                },     
+                   {
+                  "user": "Terxo",
+                  "link": "https://www.youtube.com/watch?v=XPM1CWSRqLE",
+                  "percent": 100,
+                  "hz": 60
+                    } 
         
     ]
 }
