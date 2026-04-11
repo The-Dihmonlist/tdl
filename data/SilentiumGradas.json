@@ -1,15 +1,19 @@
 {
     "id": 45626173 ,
-    "name": "",
-    "author": "",
+    "name": "Silentium Gradas",
+    "author": "Stormfly",
     "creators": [
-             "Metalface221"
-             "Kugelblitz"
-      
-    ],
-    "verifier": "",
-    "verification": "",
-    "percentToQualify": "",
-    "password": "",
+            "Metalface221",
+            "Kugelblitz",
+            "Zhander",
+            "noice",
+            "Shocksidian",
+            "Aquatais",
+            "KaotikJumper",
+            "Blaireswip"
+               ],
+    "verifier": "Terxo",
+    "verification": "https://www.youtube.com/watch?v=NvblH0FD9q4",
+    "percentToQualify": "100",
     "records": []
 } 
