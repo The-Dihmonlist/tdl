@@ -5,5 +5,13 @@
     "creators": ["Noobas"],
     "verifier": "Fluox06",
     "verification": "https://youtu.be/r-jsoEWM5hs?is=QKgHCVP5N-4jy3D-",
-    "records": []
+    "records": [
+                 {
+                  "user": "Terxo",
+                  "link": "https://www.youtube.com/watch?v=3M4Jv9Diz1Y",
+                  "percent": 100,
+                  "hz": 60
+                  }
+        
+    ]
 }
