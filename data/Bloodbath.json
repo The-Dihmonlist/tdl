@@ -17,5 +17,11 @@
     ],
     "verifier": "Adrian",
     "verification": "https://youtu.be/Xtmbjy6FEbU?si=Sr9CImQphAn-anRP",
-    "records": []
+    "records": [{
+                  "user": "Terxo",
+                  "link": "https://www.youtube.com/watch?v=jCjpNW4PXW4",
+                  "percent": 100,
+                  "hz": 60
+                    } 
+]
 }
