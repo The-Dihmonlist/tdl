@@ -5,5 +5,11 @@
     "creators": ["Cyclic"],
     "verifier": "scuffed",
     "verification": "https://youtu.be/r4QiAdhFkJk?si=bXibLKnvQJ133ixO",
-    "records": []
+    "records": [{
+                  "user": "Terxo",
+                  "link": "https://www.youtube.com/watch?v=Hz0xIv5oAhg",
+                  "percent": 100,
+                  "hz": 60
+                    },
+                ]
 }
