@@ -5,5 +5,12 @@
     "creators": ["VelYT"],
     "verifier": "Accelerator Jr",
     "verification": "https://www.youtube.com/watch?v=vjdqdz7h9n8",
-    "records": []
+    "records": [
+                    {
+                  "user": "dagreenmoose",
+                  "link": "https://www.youtube.com/watch?v=Nrpf2MxZpLE&t=18s",
+                  "percent": 100,
+                  "hz": 240
+                    } 
+                ]
 }
