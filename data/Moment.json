@@ -9,5 +9,12 @@
     ],
     "verifier": "Adrian",
     "verification": "https://youtu.be/jrgkmPP9tbM?si=UjjLSt_Y04JAonxU",
-    "records": []
+    "records": [
+                 {
+                  "user": "Maxy",
+                  "link": "https://www.youtube.com/watch?v=fy1DIZHXGLc",
+                  "percent": 100,
+                  "hz": 60
+                }
+    ]
 }
