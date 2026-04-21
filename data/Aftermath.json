@@ -32,7 +32,14 @@
                   "link": "https://www.youtube.com/watch?v=RSP94aJygXo",
                   "percent": 100,
                   "hz": 165
-                } 
+                },
+                 {
+                  "user": "Maxy",
+                  "link": "https://www.youtube.com/watch?v=SwzoqqrUEVQ",
+                  "percent": 100,
+                  "hz": 60
+                }   
+
     
     ]
 }
