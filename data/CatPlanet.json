@@ -5,5 +5,12 @@
     "creators": ["icedcave"],
     "verifier": "scuffed",
     "verification": "https://youtu.be/vmEMjAfUCdA?si=TS4hrhi8QnlDK20I",
-    "records": []
+    "records": [
+                    {
+                  "user": "Maxy",
+                  "link": "https://www.youtube.com/watch?v=TPbttosYs9U",
+                  "percent": 100,
+                  "hz": 60
+                    }    
+    ]    
 }
