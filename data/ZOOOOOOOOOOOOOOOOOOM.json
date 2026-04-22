@@ -6,5 +6,12 @@
     "verifier": "Maxy",
     "verification": "https://www.youtube.com/watch?v=Z9T1q4JrT-0",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+                 {
+                     "user": "an4rchh",
+                    "link": "https://www.youtube.com/watch?v=cYZUhBUDgkA",
+                    "percent": 100,
+                      "hz": 85
+                }
+             ]
 } 
