@@ -5,5 +5,11 @@
     "creators": ["saRy", "NePtunE"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/7k0ICQ-AY6w?si=6L4laswEgfXZJaLS",
-    "records": []
+    "records": [
+                {
+                  "user": "Maxy",
+                  "link": "https://www.youtube.com/watch?v=2jN_2iALjys",
+                  "percent": 100,
+                  "hz": 60
+                }]
 }
