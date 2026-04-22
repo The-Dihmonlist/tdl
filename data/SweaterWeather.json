@@ -6,18 +6,18 @@
     "verifier": "Accelerator Jr",
     "verification": "https://www.youtube.com/watch?v=vjdqdz7h9n8",
     "records": [
-                    {
-                  "user": "dagreenmoose",
-                  "link": "https://www.youtube.com/watch?v=Nrpf2MxZpLE&t=18s",
-                  "percent": 100,
-                  "hz": 240
-                    },
-                    {
-                     "user": "Maxy",
-                    "link": "https://www.youtube.com/watch?v=rHlOarGAZO8",
-                    "percent": 100,
-                      "hz": 60
-                    },
+                        {
+                      "user": "dagreenmoose",
+                      "link": "https://www.youtube.com/watch?v=Nrpf2MxZpLE&t=18s",
+                      "percent": 100,
+                      "hz": 240
+                        },
+                        {
+                         "user": "Maxy",
+                        "link": "https://www.youtube.com/watch?v=rHlOarGAZO8",
+                        "percent": 100,
+                          "hz": 60
+                        },
                          {
                          "user": "Adrian",
                          "link": "https://youtu.be/adNxiWjBa7k?si=IFP1jxFnnctiTaEm",
