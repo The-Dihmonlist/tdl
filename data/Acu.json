@@ -23,6 +23,12 @@
                     "link": "https://www.youtube.com/watch?v=y6N3nZvAwqw",
                     "percent": 100,
                       "hz": 60
+                    },
+                    {
+                     "user": "Adrian",
+                    "link": "https://youtu.be/ZUBKNP_UqYE?si=krUH530KlMqqF78y",
+                     "percent": 100,
+                      "hz": 240
                     }
         
     ]
