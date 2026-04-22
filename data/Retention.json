@@ -5,5 +5,12 @@
     "creators": ["WOOGI1411"],
     "verifier": "NatanGMDD",
     "verification": "https://youtu.be/re4wvVjQLZo",
-    "records": []
+    "records": [
+                 {
+                     "user": "Adrian",
+                    "link": "https://youtu.be/op2UxAjFKds?si=AuLm5Nb-DpvOyp3A",
+                    "percent": 100,
+                      "hz": 240
+                }
+    ]
 }
