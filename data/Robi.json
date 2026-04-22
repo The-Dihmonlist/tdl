@@ -5,5 +5,12 @@
     "creators": ["robianny"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/wE-B1uGGHqE?si=oh2S5-KLNhRBEXFM",
-    "records": []
+    "records": [
+                {
+                  "user": "Maxy",
+                  "link": "https://www.youtube.com/watch?v=v5RlAiw0bok",
+                  "percent": 100,
+                  "hz": 60
+                 }
+                ]
 }
