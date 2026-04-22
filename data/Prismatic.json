@@ -3,12 +3,12 @@
     "name": "Prismatic",
     "author": "CatGeo",
     "creators": ["CatGeo"],
-    "verifier": "Adrian",
-    "verification": "https://youtu.be/EJmRnaEroik?si=EgfYmQwksEleduWI",
+    "verifier": "NatanGMDD",
+    "verification": "https://www.youtube.com/watch?v=dUUoWJme6KI",
     "records": [
                 {
-                     "user": "NatanGMDD",
-                    "link": "https://youtu.be/dUUoWJme6KI?si=m12hcuTU8mOb5imB",
+                     "user": "Adrian",
+                    "link": "https://www.youtube.com/watch?v=EJmRnaEroik",
                     "percent": 100,
                       "hz": 240
                 }
