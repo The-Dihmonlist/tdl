@@ -17,7 +17,13 @@
                   "link": "https://www.youtube.com/watch?v=XPM1CWSRqLE",
                   "percent": 100,
                   "hz": 60
-                    } 
+                    },
+                    {
+                     "user": "Maxy",
+                    "link": "https://www.youtube.com/watch?v=y6N3nZvAwqw",
+                    "percent": 100,
+                      "hz": 60
+                    }
         
     ]
 }
