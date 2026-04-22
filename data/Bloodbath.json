@@ -17,7 +17,7 @@
     ],
     "verifier": "Adrian",
     "verification": "https://youtu.be/Xtmbjy6FEbU?si=Sr9CImQphAn-anRP",
-    "records": [{
+    "records": [    {
                   "user": "Terxo",
                   "link": "https://www.youtube.com/watch?v=jCjpNW4PXW4",
                   "percent": 100,
@@ -28,6 +28,12 @@
                   "link": "https://www.youtube.com/watch?v=CrpkOB7yxLQ",
                   "percent": 100,
                   "hz": 60
+                    },
+                    {
+                    "user": "NatanGMDD",
+                  "link": "https://youtu.be/BiJMKP6q6Dk?si=RbdvOyAlDMZiE9Qc",
+                  "percent": 100,
+                  "hz": 240
                     }
 ]
 }
