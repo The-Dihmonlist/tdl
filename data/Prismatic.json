@@ -5,5 +5,12 @@
     "creators": ["CatGeo"],
     "verifier": "NatanGMDD",
     "verification": "https://youtu.be/EJmRnaEroik?si=EgfYmQwksEleduWI",
-    "records": []
+    "records": [
+                {
+                     "user": "Adrian",
+                    "link": "https://youtu.be/EJmRnaEroik?si=7SNVXlqI1r3B231R",
+                    "percent": 100,
+                      "hz": 240
+                }
+                ]
 }
