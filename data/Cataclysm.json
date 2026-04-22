@@ -6,18 +6,24 @@
     "verifier": "dagreenmoose",
     "verification": "https://youtu.be/4x1I5jsxYPs?si=N50WPoe9Lts4Tv0r",
     "records": [
-                 {
+                   {
                   "user": "Auzenthic",
                   "link": "https://youtu.be/iCC0l4OW_pg?si=HvljDt-PQZf3eeZG",
                   "percent": 100,
                   "hz": 240
-                },
-                {
+                    },
+                    {
                   "user": "Terxo",
                   "link": "https://www.youtube.com/watch?v=T5BpdfO4BJM",
                   "percent": 100,
                   "hz": 60
-                    } 
+                    },
+                    {
+                     "user": "Adrian",
+                    "link": "https://youtu.be/bCC-1GaK0wk?si=S-62LJoeREWKh3nN",
+                    "percent": 100,
+                      "hz": 240
+                    }
 
-    ]
+                ]
 }
