@@ -11,5 +11,12 @@
     ],
     "verifier": "Auzenthic",
     "verification": "https://youtu.be/zIuATy8Nd4s?si=3O88QxEsHu6xivVh",
-    "records": []
+    "records":  [
+                {
+                     "user": "Maxy",
+                    "link": "https://www.youtube.com/watch?v=rL0ay8B9MXQ",
+                    "percent": 100,
+                      "hz": 60
+                }
+                ]
 }
