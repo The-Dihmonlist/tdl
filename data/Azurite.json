@@ -5,5 +5,12 @@
     "creators": ["Sillow"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/67cB3MawLJo?si=tXBIezKKbqy5iD4d",
-    "records": []
+    "records": [
+                 {
+             "user": "Microb",
+            "link": "https://youtu.be/YEQOkWkcccU?si=1FdIOExF7VurGET0",
+            "percent": 100,
+            "hz": 480
+                }
+            ]
 }
