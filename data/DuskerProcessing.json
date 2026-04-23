@@ -6,5 +6,12 @@
     "verifier": "Gooball123",
     "verification": "https://youtu.be/ymcwS-ETAUI?si=TKEUHlz07-zrJFUb",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+                 {
+                     "user": "Microb",
+                    "link": "https://youtu.be/ymcwS-ETAUI?si=PRGWVS_py1g7qao_",
+                    "percent": 100,
+                    "hz": 480
+                }
+               ]
 } 
