@@ -5,5 +5,12 @@
     "creators": ["kaacu"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/abLYzgqEWwk?si=N1HDjeax7qE2Ma1g",
-    "records": []
+    "records": [
+                {
+                  "user": "Microb",
+                    "link": "https://youtu.be/JHpKTXxK2cA?si=WIN4nhNF9sNS5zqg",
+                      "percent": 100,
+                          "hz": 480
+                }
+                ]
 }
