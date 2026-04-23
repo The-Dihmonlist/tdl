@@ -41,7 +41,13 @@
                   "link": "https://youtu.be/2hLsY-xtAB0?si=Q-FrXbsJ4ceQKkzD",
                   "percent": 100,
                   "hz": 120
-                    }
+                    },
+                     {
+                      "user": "JonquaviousGD",
+                    "link": "https://www.youtube.com/watch?v=fYzsXAu5kk4",
+                    "percent": 100,
+                    "hz": 480
+                }
         
     ]
 }
