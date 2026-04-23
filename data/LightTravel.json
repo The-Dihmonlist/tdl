@@ -5,5 +5,12 @@
     "creators": ["dongchi"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/xfUeAQ1oEMM?si=Ou483nn4R0oBi6JD",
-    "records": []
+    "records": [
+                {
+                  "user": "Accelerator",
+                "link": "https://www.youtube.com/watch?v=owWTukwEPm8",
+                 "percent": 100,
+                 "hz": 240
+                }
+    ]
 }
