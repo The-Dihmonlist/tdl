@@ -5,5 +5,12 @@
     "creators": ["spark"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/phiL0Niqj88?si=94KyZdar8lCuqhhO",
-    "records": []
+    "records": [
+                {
+                  "user": "Thr4xGd",
+                  "link": "https://youtu.be/XDJV_JP9CyQ?si=uhcUWauwrduPnopJ",
+                  "percent": 100,
+                  "hz": 120
+                 }
+                ]
 }
