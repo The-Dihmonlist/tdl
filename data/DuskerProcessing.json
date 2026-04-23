@@ -3,15 +3,8 @@
     "name": "Dusker Processing",
     "author": "DuskerHu",
     "creators": ["Duskerhu"],
-    "verifier": "Gooball123",
+    "verifier": "Microb",
     "verification": "https://youtu.be/ymcwS-ETAUI?si=TKEUHlz07-zrJFUb",
     "percentToQualify": "100",
-    "records": [
-                 {
-                     "user": "Microb",
-                    "link": "https://youtu.be/ymcwS-ETAUI?si=PRGWVS_py1g7qao_",
-                    "percent": 100,
-                    "hz": 480
-                }
-               ]
+    "records": []
 } 
