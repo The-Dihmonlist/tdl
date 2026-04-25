@@ -34,6 +34,12 @@
                   "link": "https://youtu.be/BiJMKP6q6Dk?si=RbdvOyAlDMZiE9Qc",
                   "percent": 100,
                   "hz": 240
-                    }
+                    },
+                    {
+                     "user": "scuffed",
+                    "link": "https://www.youtube.com/watch?v=9-HBUoBzgeA&t=4s",
+                    "percent": 100,
+                      "hz": 480
+                    }    
 ]
 }
