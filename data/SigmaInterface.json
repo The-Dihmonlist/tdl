@@ -5,5 +5,12 @@
     "creators": ["TeslaX", "Platnuu"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/0jRhe9LFFqs?si=eQzZoNyOYPRVNgzF",
-    "records": []
+    "records": [
+                {
+                     "user": "scuffed",
+                    "link": "https://www.youtube.com/watch?v=v8JnLNXA3wQ",
+                    "percent": 100,
+                      "hz": 480
+                }
+              ]
 }
