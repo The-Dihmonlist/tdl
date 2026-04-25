@@ -18,6 +18,12 @@
                     "link": "https://www.youtube.com/watch?v=LiALmG4LBms",
                     "percent": 100,
                       "hz": 60
-                } 
+                },
+                {
+                     "user": "scuffed",
+                    "link": "https://www.youtube.com/watch?v=OZcMvluQ7r8",
+                    "percent": 100,
+                      "hz": 480
+                }
                ]
 }
