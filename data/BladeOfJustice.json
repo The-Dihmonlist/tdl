@@ -9,5 +9,12 @@
     ],
     "verifier": "Auzenthic",
     "verification": "https://youtu.be/WNxxh7TWXO4?si=OWqQq4PEtTMHOdNq",
-    "records": []
+    "records": [
+                {
+                     "user": "Adrian",
+                    "link": "https://youtu.be/T-JxlXGKnAI?si=_Hjao2PdFNiGkm50",
+                    "percent": 100,
+                      "hz": 240
+                }
+              ]
 }
