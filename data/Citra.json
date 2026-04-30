@@ -6,5 +6,12 @@
     "verifier": "an4rchh",
     "verification": "https://youtu.be/n8DeutaZ-V0",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+                {
+                     "user": "Lukitaa13",
+                    "link": "https://www.youtube.com/watch?v=Y885V3QXpf0",
+                    "percent": 100,
+                      "hz": 120
+                }
+                ]
 } 
