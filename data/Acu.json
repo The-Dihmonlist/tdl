@@ -47,7 +47,13 @@
                     "link": "https://www.youtube.com/watch?v=fYzsXAu5kk4",
                     "percent": 100,
                     "hz": 480
-                }
+                    }
+                    {
+                      "user": "Lukitaa13",
+                    "link": "https://www.youtube.com/watch?v=ecd7jXSd1JM",
+                    "percent": 100,
+                    "hz": 120
+                    }
         
     ]
 }
