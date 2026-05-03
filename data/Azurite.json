@@ -1,4 +1,4 @@
-{
+
     "id": 62214792,
     "name": "Azurite",
     "author": "Sillow",
@@ -11,6 +11,12 @@
             "link": "https://youtu.be/YEQOkWkcccU?si=1FdIOExF7VurGET0",
             "percent": 100,
             "hz": 480
-                }
+                },
+                {
+             "user": "scuffed",
+            "link": "https://youtu.be/s_hsxlg_n4M?si=AxZcPkKlyOc8uKtb",
+            "percent": 100,
+            "hz": 240
+                }    
             ]
 }
