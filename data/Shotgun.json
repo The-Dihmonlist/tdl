@@ -19,5 +19,11 @@
     "verifier": "Lukitaa13",
     "verification": "https://www.youtube.com/watch?v=P0OwutDKKwA",
     "percentToQualify": "100",
-    "records": []
+    "records": [ 
+                {
+                    "user": "Henolis",
+                    "link": "https://youtu.be/NaCpBk4iZbU?is=5Cf84BoWVmHiJV0i",
+                    "percent": 100,
+                    "hz": 240
+                }    ]
 } 
