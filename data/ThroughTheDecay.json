@@ -6,7 +6,7 @@
     "verifier": "Adrian",
     "verification": "https://youtu.be/phiL0Niqj88?si=94KyZdar8lCuqhhO",
     "records": [
-                {
+                 {
                   "user": "Thr4xGd",
                   "link": "https://youtu.be/XDJV_JP9CyQ?si=uhcUWauwrduPnopJ",
                   "percent": 100,
@@ -17,6 +17,12 @@
                      "link": "https://www.youtube.com/watch?v=CGBFIoHqbjc",
                      "percent": 100,
                      "hz": 480
+                },
+                {
+                    "user": "Henolis",
+                    "link": "https://youtu.be/X9fXKWfWQDA?is=0qzM2NPhn04zrJPX",
+                    "percent": 100,
+                    "hz": 170
                 }
                 ]
 }
