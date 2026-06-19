@@ -40,6 +40,13 @@
                   "link": "https://www.youtube.com/watch?v=4uwKW63cluI",
                   "percent": 100,
                   "hz": 500
-                    }
+                    },
+                  {
+                  "user": "Derpsome",
+                  "link": "https://www.youtube.com/watch?v=R572fcgWqmQ",
+                  "percent": 100,
+                  "hz": 240
+                 },
+
     ]
 }
