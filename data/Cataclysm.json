@@ -35,7 +35,14 @@
                   "link": "https://www.youtube.com/watch?v=JOmCPBy0W8A",
                   "percent": 100,
                   "hz": 500
+                    },
+                     {
+                  "user": "CraftyGaming64",
+                  "link": "https://www.youtube.com/watch?v=Iq9MJfUtv2I",
+                  "percent": 100,
+                  "hz": 240
                     }
+ 
  
                 ]
 }
