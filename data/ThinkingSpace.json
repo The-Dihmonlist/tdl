@@ -6,5 +6,11 @@
     "verifier": "guisantewaveplayer",
     "verification": "https://youtu.be/bTk7lwtS97w?si=WAsex62vmUJISyRU",
     "percentToQualify": "100",
-    "records": []
+    "records": [ {
+                  "user": "beefyikes",
+                  "link": "hhttps://www.youtube.com/watch?v=zWp_u4e7vxg&t=8s",
+                  "percent": 100,
+                  "hz": 180
+                    }
+                ]
 } 
