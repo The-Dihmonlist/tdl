@@ -7,17 +7,24 @@
     "verification": "https://www.youtube.com/watch?v=0qE6IKbWAsw",
     "percentToQualify": "100",
     "records": [
-                {
+                  {
                      "user": "Adrian",
                     "link": "https://youtu.be/pOC5ZlTHaKM?si=SGb8P_M43O2k5mK3",
                     "percent": 100,
-                      "hz": 240
-                },
+                    "hz": 240
+                  },
                     {
                      "user": "Microb",
                     "link": "https://youtu.be/UxOxF3Wompg?si=LAv91hHI2CJJpUI6",
                     "percent": 100,
                       "hz": 240
-                }
+                  },
+                    {
+                  "user": "Auzenthic",
+                  "link": "https://youtu.be/m3ZzTwtnur0?si=kHmRH0l_ABG7buI3",
+                  "percent": 100,
+                  "hz": 240
+                  }
+
               ]
 } 
