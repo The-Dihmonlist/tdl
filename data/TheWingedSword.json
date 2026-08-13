@@ -6,5 +6,10 @@
     "verifier": "Adrian",
     "verification": "https://youtu.be/tis6C9hJFzs?si=hCKnDdBlg_Kpxfl9",
     "percentToQualify": "100",
-    "records": []
+    "records": [{
+                  "user": "Auzenthiuc",
+                  "link": "https://youtu.be/dI6g05gZJv0?si=knZZ1488YaDaRzX4",
+                  "percent": 100,
+                  "hz": 240
+                }]
 } 
