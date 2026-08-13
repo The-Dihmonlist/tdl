@@ -19,7 +19,14 @@
                   "link": "https://www.youtube.com/watch?v=85lDoSVptIU",
                   "percent": 100,
                   "hz": 60
-                    } 
+                    },
+                    {
+                  "user": "Auzenthic",
+                  "link": "https://youtu.be/UA5AZqIKH5Q?si=cBG5zl0Yo1CCJcli",
+                  "percent": 100,
+                  "hz": 240
+                }
+            
                ] 
 
 }
