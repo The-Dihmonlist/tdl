@@ -10,5 +10,11 @@
     ],
     "verifier": "Adrian",
     "verification": "https://youtu.be/pzYaGttXDaA?si=q749eUpXJU5mFTod",
-    "records": []
+    "records": [
+                {
+                  "user": "NatanGMDD",
+                  "link": "https://youtu.be/28_OnAmXZlc?si=BmmtorPYD2uVTSc3",
+                  "percent": 100,
+                  "hz": 240
+                }]
 }
