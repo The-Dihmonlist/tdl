@@ -17,6 +17,12 @@
                     "link": "https://www.youtube.com/watch?v=rL0ay8B9MXQ",
                     "percent": 100,
                       "hz": 60
+                },
+                {
+                  "user": "NatanGMDD",
+                  "link": "https://youtu.be/F2XlhadjhTI?si=VtWNVWH86iMHTHUB",
+                  "percent": 100,
+                  "hz": 120
                 }
                 ]
 }
