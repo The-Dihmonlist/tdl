@@ -14,5 +14,10 @@
     "verifier": "guisantewaveplayer",
     "verification": "https://youtu.be/QUWPIn2T8No?si=pdRdxjODihMWMeFU",
     "percentToQualify": "100",
-    "records": []
+    "records": [{
+                     "user": "NatanGMDD",
+                    "link": "https://youtu.be/xbh_Du_NhVo?si=J31mL4YFK2Yk1Ty5",
+                    "percent": 100,
+                      "hz": 240
+                }]
 } 
