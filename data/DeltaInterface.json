@@ -5,5 +5,10 @@
     "creators": ["Platnuu"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/OaPVDpiC8L4?si=VH7c3VZjshASG_Rt",
-    "records": []
+    "records": [{
+                     "user": "NatanGMDD",
+                    "link": "https://youtu.be/CybFHuWY1RI?si=VRN3UJaomlun1Ow8",
+                    "percent": 100,
+                      "hz": 240
+                }]
 }
