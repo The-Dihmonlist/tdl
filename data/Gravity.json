@@ -6,5 +6,10 @@
     "verifier": "Maxy",
     "verification": "https://www.youtube.com/watch?v=wIhr1Ir9a8o",
     "percentToQualify": "100",
-    "records": []
+    "records": [{
+                     "user": "NatanGMDD",
+                    "link": "https://youtu.be/kGgAxR6XEDI?si=JIneSC2OOpNZR50c",
+                    "percent": 100,
+                      "hz": 240
+                }]
 } 
