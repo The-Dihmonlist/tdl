@@ -5,5 +5,10 @@
     "creators": ["royen", "valentine", "Jakalope"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/xFhn6pDNDH8?si=UR-K-j8t4ixHiqIA",
-    "records": []
+    "records": [{
+                  "user": "Maxy",
+                  "link": "https://www.google.com/url?q=https://youtu.be/7k0MoJIfOyk&sa=D&source=editors&ust=1792437810463634&usg=AOvVaw39Ti0Wb-qqPQm_qj3tgrPd",
+                  "percent": 100,
+                  "hz": 280
+                    }]
 }
