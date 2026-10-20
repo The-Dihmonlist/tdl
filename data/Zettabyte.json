@@ -5,5 +5,10 @@
     "creators": ["Jenkins"],
     "verifier": "Adrian",
     "verification": "https://youtu.be/aFR5lIchSJ0?si=iEES0qUMu5ldtO2M",
-    "records": []
+    "records": [{
+                     "user": "NatanGMDD",
+                    "link": "https://youtu.be/ODontMM3SYk?si=NrSwW3KqcYNdDlQl",
+                    "percent": 100,
+                      "hz": 240
+                }]
 }
